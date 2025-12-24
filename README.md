@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](./profile-3d-contrib/profile-season-animate.svg)
+
 <!--
 **ksusuhyun/ksusuhyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
