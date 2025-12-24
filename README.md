@@ -2,6 +2,9 @@
 
 <hr>
 
+💡 𝙸 𝚖𝚊𝚓𝚘𝚛𝚎𝚍 𝚒𝚗
+ ***Bio Medical Engineering*** <span style="color: #ADADAD">*Signal Processing @Pusan National University*</span>
+ 
 <hr>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
