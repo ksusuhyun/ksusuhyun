@@ -7,7 +7,7 @@
 
 🤲 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 <br>
 &emsp;&emsp;`Undergraduate Research Assistant` ***Medical AI Lab*** <span style="color: #ADADAD"> *@Pusan National University* 2024.09~ </span> <br>
-&emsp;&emsp;`Research Intern` ***EEG Analysis & AI Development*** <span style="color: #ADADAD"> *@4N* 2024.06~2024.08 </span>
+&emsp;&emsp;`Research Intern` ***EEG Analysis & AI Development*** <span style="color: #ADADAD"> *@4N Inc.* 2024.06~2024.08 </span>
 
 🛠 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝚃𝚘𝚘𝚕𝚜 <br><br>
 &emsp;&emsp;![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
