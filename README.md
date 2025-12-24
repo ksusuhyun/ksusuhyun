@@ -3,7 +3,7 @@
 <hr>
 
 💡 𝙸 𝚖𝚊𝚓𝚘𝚛𝚎𝚍 𝚒𝚗 <br>
-&emsp;&emsp;***Data Science*** <span style="color: #ADADAD"> *Biomedical Convergence Engineering @PNU* </span>
+&emsp;&emsp;***Data Science,*** <span style="color: #ADADAD"> *Biomedical Convergence Engineering @PNU* </span>
 
 <hr>
 
