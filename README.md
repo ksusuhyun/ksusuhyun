@@ -3,7 +3,7 @@
 <hr>
 
 💡 𝙸 𝚖𝚊𝚓𝚘𝚛𝚎𝚍 𝚒𝚗 <br>
-***Data Science*** <span style="color: #ADADAD">@Pusan National University</span>
+&emsp;***Data Science*** <span style="color: #ADADAD"> *@Pusan National University* </span>
  
 <hr>
 
