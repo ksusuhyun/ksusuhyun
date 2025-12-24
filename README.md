@@ -9,7 +9,7 @@
 &emsp;&emsp;***AID***
 
 🤲 𝚆𝚘𝚛𝚔 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 <br>
-&emsp;&emsp;`Undergraduate Research Assistant` ***Medical AI Lab*** <span style="color: #ADADAD"> *@Pusan National University* 2024.09~ </span> <br>
+&emsp;&emsp;`Undergraduate Research Assistant` ***Medical AI Lab*** <span style="color: #ADADAD"> *@Pusan National University* 2024.09~ </span> <br><br>
 &emsp;&emsp;`Research Intern` ***Signal Processing & AI Development*** <span style="color: #ADADAD"> *@4N* 2024.06~2024.08 </span>
 
 
