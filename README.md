@@ -1,6 +1,6 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ksh114612)](https://solved.ac/ksh114612) 
 
-![header](https://capsule-render.vercel.app/api?type=soft&text=Su%20Hyun's%20GitHub&font=Inter&fontSize=28&bgColor=00000000)
+![header](https://capsule-render.vercel.app/api?type=Transparent&text=Su%20Hyun's%20GitHub&font=Inter&fontSize=28)
 
 
 
