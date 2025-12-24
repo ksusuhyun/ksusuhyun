@@ -9,7 +9,7 @@
 &emsp;&emsp;`Undergraduate Research Assistant` ***Medical AI Lab*** <span style="color: #ADADAD"> *@Pusan National University* 2024.09~ </span> <br>
 &emsp;&emsp;`Research Intern` ***EEG Analysis & AI Development*** <span style="color: #ADADAD"> *@4N Inc.* 2024.06~2024.08 </span>
 
-🛠 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝚃𝚘𝚘𝚕𝚜 <br><br>
+🛠 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝚃𝚘𝚘𝚕𝚜 <br>
 <table width="100%">
   <tr>
     <td align="left" width="70%">
