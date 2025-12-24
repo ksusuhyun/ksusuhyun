@@ -5,6 +5,14 @@
 💡 𝙸 𝚖𝚊𝚓𝚘𝚛𝚎𝚍 𝚒𝚗 <br>
 &emsp;&emsp;***Biomedical Data Science*** <span style="color: #ADADAD"> *@Pusan National University* </span>
 
+✏️ 𝙸'𝚟𝚎 𝚜𝚝𝚞𝚍𝚒𝚎𝚍 <br>
+`Undergraduate Research Assistant`
+'AI Developer Club'
+
+🤲 𝚆𝚘𝚛𝚔 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 <br>
+`Internship`
+
+
 <hr>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
