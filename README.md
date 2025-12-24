@@ -6,10 +6,10 @@
 &emsp;&emsp;***Biomedical Data Science*** <span style="color: #ADADAD"> *@Pusan National University* </span>
 
 ✏️ 𝙸'𝚟𝚎 𝚜𝚝𝚞𝚍𝚒𝚎𝚍 <br>
-&emsp;&emsp;`Undergraduate Research Assistant` <br>
-&emsp;&emsp;`AI Developer Club`
+&emsp;&emsp;***AID***
 
 🤲 𝚆𝚘𝚛𝚔 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 <br>
+&emsp;&emsp;`Undergraduate Research Assistant` <br>
 &emsp;&emsp;`Internship`
 
 
