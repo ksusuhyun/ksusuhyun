@@ -9,8 +9,8 @@
 &emsp;&emsp;`Undergraduate Research Assistant` ***Medical AI Lab*** <span style="color: #ADADAD"> *@Pusan National University* 2024.09~ </span> <br><br>
 &emsp;&emsp;`Research Intern` ***EEG Analysis & AI Development*** <span style="color: #ADADAD"> *@4N* 2024.06~2024.08 </span>
 
-🛠 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝚃𝚘𝚘𝚕𝚜 <br>
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+🛠 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝚃𝚘𝚘𝚕𝚜 <br><br>
+&emsp;&emsp;![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1967.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
