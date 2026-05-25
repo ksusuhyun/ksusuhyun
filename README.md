@@ -6,8 +6,8 @@
 &emsp;&emsp;***Biomedical Data Science*** <span style="color: #ADADAD"> *@Pusan National Univ.* </span>
 
 🤲 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 <br>
-&emsp;&emsp;`Undergraduate Research Assistant` ***Medical AI Lab*** <span style="color: #ADADAD"> *@Pusan National Univ.* 2024.09~2026.01 </span> <br>
-&emsp;&emsp;`Research Intern` ***EEG Analysis & AI Development*** <span style="color: #ADADAD"> *@4N Inc.* 2024.06~2024.08 </span>
+&emsp;&emsp;`Undergraduate Research Assistant` ***Medical AI Lab*** <span style="color: #ADADAD"> *@Pusan National Univ.* 2024.09 ~ 2026.01 </span> <br>
+&emsp;&emsp;`Research Intern` ***EEG Analysis & AI Development*** <span style="color: #ADADAD"> *@4N Inc.* 2024.06 ~ 2024.08 </span>
 
 🛠 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝚃𝚘𝚘𝚕𝚜 <br>
 &emsp;&emsp;<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
