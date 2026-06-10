@@ -16,4 +16,5 @@
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"><br>
 
+<a href="https://stephenajulu.com"><img src="https://user-images.githubusercontent.com/76824611/133933728-4bb4a26e-52a2-4a46-8ab3-489c241d9ce7.gif" align="right" width="250" height="150"></a>
 <hr>
