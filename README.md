@@ -1,6 +1,6 @@
 𝚂𝚞 𝙷𝚢𝚞𝚗'𝚜 𝙶𝚒𝚝𝙷𝚞𝚋 *@𝚔𝚜𝚞𝚜𝚞𝚑𝚢𝚞𝚗*&emsp;📍 ***Busan*** *South Korea*&emsp;📫 ***ksh114610@gmail.com***
 <hr>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Otter.png" alt="Hot Beverage" width="130" height="140" align="right"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Otter.png" alt="Hot Beverage" width="140" height="140" align="right"/>
 
 💡 𝙸 𝚖𝚊𝚓𝚘𝚛𝚎𝚍 𝚒𝚗 <br>
 &emsp;&emsp;***Biomedical Data Science*** <span style="color: #ADADAD"> *@Pusan National Univ.* </span> <br><br>
